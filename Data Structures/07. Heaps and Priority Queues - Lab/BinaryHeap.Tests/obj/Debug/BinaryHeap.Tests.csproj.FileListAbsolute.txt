@@ -1,0 +1,28 @@
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+C:\Users\Pesho\Desktop\DS03\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojAssemblyReference.cache
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csproj.CopyComplete
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb

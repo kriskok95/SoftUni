@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\bin\Debug\SequenceNToM.exe.config
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\bin\Debug\SequenceNToM.exe
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\bin\Debug\SequenceNToM.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\obj\Debug\SequenceNToM.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\obj\Debug\SequenceNToM.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\obj\Debug\SequenceNToM.exe
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SequenceNToM\obj\Debug\SequenceNToM.pdb

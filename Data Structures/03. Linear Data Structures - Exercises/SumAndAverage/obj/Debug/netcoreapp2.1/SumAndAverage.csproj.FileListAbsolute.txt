@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\bin\Debug\netcoreapp2.1\SumAndAverage.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\bin\Debug\netcoreapp2.1\SumAndAverage.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\bin\Debug\netcoreapp2.1\SumAndAverage.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\bin\Debug\netcoreapp2.1\SumAndAverage.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\bin\Debug\netcoreapp2.1\SumAndAverage.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\obj\Debug\netcoreapp2.1\SumAndAverage.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\obj\Debug\netcoreapp2.1\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\obj\Debug\netcoreapp2.1\SumAndAverage.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\obj\Debug\netcoreapp2.1\SumAndAverage.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\obj\Debug\netcoreapp2.1\SumAndAverage.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SumAndAverage\obj\Debug\netcoreapp2.1\SumAndAverage.pdb

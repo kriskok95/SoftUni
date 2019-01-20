@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\obj\Debug\LinkedStack.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\obj\Debug\LinkedStack.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedList\obj\Debug\LinkedList.pdb

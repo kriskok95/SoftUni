@@ -1,0 +1,11 @@
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csprojAssemblyReference.cache
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CopyComplete
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb

@@ -1,0 +1,7 @@
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+C:\Programming\DataStructures\LinearDataStructures\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

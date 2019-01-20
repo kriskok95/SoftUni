@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\bin\Debug\netcoreapp2.1\CountOfOccurences.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\bin\Debug\netcoreapp2.1\CountOfOccurences.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\bin\Debug\netcoreapp2.1\CountOfOccurences.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\bin\Debug\netcoreapp2.1\CountOfOccurences.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\bin\Debug\netcoreapp2.1\CountOfOccurences.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\obj\Debug\netcoreapp2.1\CountOfOccurences.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\obj\Debug\netcoreapp2.1\CountOfOccurences.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\obj\Debug\netcoreapp2.1\CountOfOccurences.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\obj\Debug\netcoreapp2.1\CountOfOccurences.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\obj\Debug\netcoreapp2.1\CountOfOccurences.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CountOfOccurences\obj\Debug\netcoreapp2.1\CountOfOccurences.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Pesho\Documents\Visual Studio 2017\Projects\DS\Skeletons\DS01-Lists\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
+C:\Users\Pesho\Desktop\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\bin\Debug\Lists.exe
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\bin\Debug\Lists.pdb
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\obj\Debug\Lists.exe
+C:\Programming\DataStructures\LinearDataStructures\01. Data-Structures-Lab-Skeleton\Linear-Data-Structures\Lists\obj\Debug\Lists.pdb

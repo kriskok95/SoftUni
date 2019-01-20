@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\bin\Debug\LinkedQueue.exe.config
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\bin\Debug\LinkedQueue.exe
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\bin\Debug\LinkedQueue.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\obj\Debug\LinkedQueue.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\obj\Debug\LinkedQueue.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\obj\Debug\LinkedQueue.exe
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LinkedQueue\obj\Debug\LinkedQueue.pdb

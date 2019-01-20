@@ -1,0 +1,10 @@
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+C:\Programming\DataStructures\LinearDataStructures\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

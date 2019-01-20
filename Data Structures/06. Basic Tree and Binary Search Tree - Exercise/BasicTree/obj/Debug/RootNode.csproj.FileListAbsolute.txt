@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\obj\Debug\RootNode.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\obj\Debug\RootNode.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\krist\source\repos\DataStructures\BasicTree\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

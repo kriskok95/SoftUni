@@ -1,0 +1,12 @@
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.csprojAssemblyReference.cache
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Programming\DataStructures\HeapsAndPriotiryQueues\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.pdb
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap\obj\Debug\BinaryHeap.csprojAssemblyReference.cache
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\krist\Desktop\Repo\07. Heaps and Priority Queues - Lab\BinaryHeap\obj\Debug\BinaryHeap.pdb

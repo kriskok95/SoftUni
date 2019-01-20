@@ -1,0 +1,7 @@
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\bin\Debug\Trie.exe.config
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\bin\Debug\Trie.exe
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\bin\Debug\Trie.pdb
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\obj\Debug\Trie.csprojAssemblyReference.cache
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\obj\Debug\Trie.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\obj\Debug\Trie.exe
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie\obj\Debug\Trie.pdb

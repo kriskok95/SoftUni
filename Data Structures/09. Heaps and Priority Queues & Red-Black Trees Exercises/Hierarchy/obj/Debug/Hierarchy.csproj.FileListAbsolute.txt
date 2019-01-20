@@ -1,0 +1,7 @@
+C:\Users\krist\Desktop\Submission_9673047\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\krist\Desktop\Submission_9673047\bin\Debug\Hierarchy.Core.exe
+C:\Users\krist\Desktop\Submission_9673047\bin\Debug\Hierarchy.Core.pdb
+C:\Users\krist\Desktop\Submission_9673047\obj\Debug\Hierarchy.csprojAssemblyReference.cache
+C:\Users\krist\Desktop\Submission_9673047\obj\Debug\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\Submission_9673047\obj\Debug\Hierarchy.Core.exe
+C:\Users\krist\Desktop\Submission_9673047\obj\Debug\Hierarchy.Core.pdb

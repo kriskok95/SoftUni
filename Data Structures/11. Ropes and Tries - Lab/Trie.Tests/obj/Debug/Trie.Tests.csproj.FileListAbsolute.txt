@@ -1,0 +1,11 @@
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\bin\Debug\Trie.exe
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\bin\Debug\Trie.pdb
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\bin\Debug\Trie.exe.config
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\obj\Debug\Trie.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\obj\Debug\Trie.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\obj\Debug\Trie.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\Programming\DataStructures\RopeAndTries\08.Trie-CSharp-Skeleton\Trie.Tests\obj\Debug\Trie.Tests.pdb

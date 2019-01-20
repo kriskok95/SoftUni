@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\bin\Debug\netcoreapp2.1\RemoveOddOccurences.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\bin\Debug\netcoreapp2.1\RemoveOddOccurences.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\bin\Debug\netcoreapp2.1\RemoveOddOccurences.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\bin\Debug\netcoreapp2.1\RemoveOddOccurences.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\bin\Debug\netcoreapp2.1\RemoveOddOccurences.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\obj\Debug\netcoreapp2.1\RemoveOddOccurences.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\obj\Debug\netcoreapp2.1\RemoveOddOccurences.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\obj\Debug\netcoreapp2.1\RemoveOddOccurences.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\obj\Debug\netcoreapp2.1\RemoveOddOccurences.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\obj\Debug\netcoreapp2.1\RemoveOddOccurences.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\RemoveOddOccurences\obj\Debug\netcoreapp2.1\RemoveOddOccurences.csprojAssemblyReference.cache

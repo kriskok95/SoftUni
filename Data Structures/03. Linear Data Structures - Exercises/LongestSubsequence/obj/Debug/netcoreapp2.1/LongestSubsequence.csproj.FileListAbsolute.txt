@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\bin\Debug\netcoreapp2.1\LongestSubsequence.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\bin\Debug\netcoreapp2.1\LongestSubsequence.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\bin\Debug\netcoreapp2.1\LongestSubsequence.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\bin\Debug\netcoreapp2.1\LongestSubsequence.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\bin\Debug\netcoreapp2.1\LongestSubsequence.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\obj\Debug\netcoreapp2.1\LongestSubsequence.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\obj\Debug\netcoreapp2.1\LongestSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\obj\Debug\netcoreapp2.1\LongestSubsequence.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\obj\Debug\netcoreapp2.1\LongestSubsequence.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\obj\Debug\netcoreapp2.1\LongestSubsequence.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\LongestSubsequence\obj\Debug\netcoreapp2.1\LongestSubsequence.pdb

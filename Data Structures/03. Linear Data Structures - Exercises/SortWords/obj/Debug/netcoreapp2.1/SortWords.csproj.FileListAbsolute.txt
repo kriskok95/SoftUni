@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\bin\Debug\netcoreapp2.1\SortWords.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\bin\Debug\netcoreapp2.1\SortWords.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\bin\Debug\netcoreapp2.1\SortWords.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\bin\Debug\netcoreapp2.1\SortWords.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\bin\Debug\netcoreapp2.1\SortWords.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\obj\Debug\netcoreapp2.1\SortWords.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\obj\Debug\netcoreapp2.1\SortWords.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\obj\Debug\netcoreapp2.1\SortWords.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\obj\Debug\netcoreapp2.1\SortWords.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\obj\Debug\netcoreapp2.1\SortWords.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\SortWords\obj\Debug\netcoreapp2.1\SortWords.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\bin\Debug\netcoreapp2.1\ArrayBasedStack.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\bin\Debug\netcoreapp2.1\ArrayBasedStack.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\bin\Debug\netcoreapp2.1\ArrayBasedStack.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\bin\Debug\netcoreapp2.1\ArrayBasedStack.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\bin\Debug\netcoreapp2.1\ArrayBasedStack.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\obj\Debug\netcoreapp2.1\ArrayBasedStack.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\obj\Debug\netcoreapp2.1\ArrayBasedStack.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\obj\Debug\netcoreapp2.1\ArrayBasedStack.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\obj\Debug\netcoreapp2.1\ArrayBasedStack.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\obj\Debug\netcoreapp2.1\ArrayBasedStack.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ArrayBasedStack\obj\Debug\netcoreapp2.1\ArrayBasedStack.csprojAssemblyReference.cache

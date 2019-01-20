@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\bin\Debug\netcoreapp2.1\ReversedList.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\bin\Debug\netcoreapp2.1\ReversedList.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\bin\Debug\netcoreapp2.1\ReversedList.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\bin\Debug\netcoreapp2.1\ReversedList.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\bin\Debug\netcoreapp2.1\ReversedList.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\obj\Debug\netcoreapp2.1\ReversedList.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\obj\Debug\netcoreapp2.1\ReversedList.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\obj\Debug\netcoreapp2.1\ReversedList.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\obj\Debug\netcoreapp2.1\ReversedList.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\obj\Debug\netcoreapp2.1\ReversedList.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReversedList\obj\Debug\netcoreapp2.1\ReversedList.pdb

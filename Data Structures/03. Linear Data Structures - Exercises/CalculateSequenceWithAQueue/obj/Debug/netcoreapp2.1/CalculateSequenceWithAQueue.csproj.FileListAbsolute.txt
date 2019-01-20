@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\bin\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\bin\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\bin\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\bin\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\bin\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\obj\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\obj\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\obj\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\obj\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\obj\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\CalculateSequenceWithAQueue\obj\Debug\netcoreapp2.1\CalculateSequenceWithAQueue.pdb

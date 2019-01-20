@@ -1,0 +1,7 @@
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\bin\Debug\Trees.exe
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\bin\Debug\Trees.pdb
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.csprojAssemblyReference.cache
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.exe
+C:\Programming\DataStructures\BasicTrees\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.pdb

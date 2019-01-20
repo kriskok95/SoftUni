@@ -1,0 +1,7 @@
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Programming\DataStructures\BST_Exercise\04. Binary-Search-Trees-Exercise-Skeleton-CSharp\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\bin\Debug\netcoreapp2.1\ReverseNumbersWithAStack.deps.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\bin\Debug\netcoreapp2.1\ReverseNumbersWithAStack.runtimeconfig.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\bin\Debug\netcoreapp2.1\ReverseNumbersWithAStack.runtimeconfig.dev.json
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\bin\Debug\netcoreapp2.1\ReverseNumbersWithAStack.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\bin\Debug\netcoreapp2.1\ReverseNumbersWithAStack.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\obj\Debug\netcoreapp2.1\ReverseNumbersWithAStack.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\obj\Debug\netcoreapp2.1\ReverseNumbersWithAStack.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\obj\Debug\netcoreapp2.1\ReverseNumbersWithAStack.AssemblyInfo.cs
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\obj\Debug\netcoreapp2.1\ReverseNumbersWithAStack.dll
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\obj\Debug\netcoreapp2.1\ReverseNumbersWithAStack.pdb
+C:\Users\krist\source\repos\DataStructures\LinearDataStructures\ReverseNumbersWithAStack\obj\Debug\netcoreapp2.1\ReverseNumbersWithAStack.csprojAssemblyReference.cache
