@@ -1,0 +1,11 @@
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.dll
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.pdb
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.pdb
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe.config
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.dll
+C:\Programming\DataStructures\AVL_RopeAndTries_Exercise\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-AVL-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.pdb
