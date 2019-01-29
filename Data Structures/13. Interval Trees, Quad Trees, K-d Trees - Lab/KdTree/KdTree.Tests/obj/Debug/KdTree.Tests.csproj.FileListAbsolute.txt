@@ -1,0 +1,11 @@
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\bin\Debug\KdTree.Tests.dll
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\bin\Debug\KdTree.Tests.pdb
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\bin\Debug\KdTree.exe
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\bin\Debug\KdTree.pdb
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\bin\Debug\KdTree.exe.config
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.dll
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.pdb

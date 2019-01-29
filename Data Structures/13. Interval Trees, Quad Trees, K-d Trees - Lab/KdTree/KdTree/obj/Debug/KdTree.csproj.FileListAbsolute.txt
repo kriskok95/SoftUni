@@ -1,0 +1,7 @@
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\bin\Debug\KdTree.exe.config
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\bin\Debug\KdTree.exe
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\bin\Debug\KdTree.pdb
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\obj\Debug\KdTree.csprojAssemblyReference.cache
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\obj\Debug\KdTree.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\obj\Debug\KdTree.exe
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Kd-Tree-CSharp-Lab-Skeleton\KdTree\KdTree\obj\Debug\KdTree.pdb

@@ -1,0 +1,11 @@
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.Tests.dll
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.Tests.pdb
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.exe
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.pdb
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.exe.config
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.dll
+C:\Programming\DataStructures\QuadAndIntervalTrees\09. Interval-Tree-CSharp-Lab-Skeleton\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.pdb
