@@ -1,0 +1,90 @@
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\krist\Desktop\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Programming\DataStructures\Exams\MyExam\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
