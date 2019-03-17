@@ -1,0 +1,11 @@
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.deps.json
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.json
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.dll
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.pdb
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.dll
+C:\Users\krist\source\repos\C#EntityFramework\TableRelations\P01_StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.pdb
