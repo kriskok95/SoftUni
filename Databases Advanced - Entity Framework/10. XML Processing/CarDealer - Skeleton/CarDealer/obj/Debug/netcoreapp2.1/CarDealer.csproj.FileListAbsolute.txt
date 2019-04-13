@@ -1,0 +1,11 @@
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Programming\DatabasesAdvanced_EntityFramework\XMLProcessing\CarDealer - Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

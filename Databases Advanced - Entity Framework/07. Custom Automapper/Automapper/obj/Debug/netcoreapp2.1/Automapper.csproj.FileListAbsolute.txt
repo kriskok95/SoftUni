@@ -1,0 +1,9 @@
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
+C:\Programming\DatabasesAdvanced_EntityFramework\AutoMapper\Automapper  - Skeleton\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb
