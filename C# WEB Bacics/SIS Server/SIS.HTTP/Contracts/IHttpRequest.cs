@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using SIS.HTTP.Enums;
+
+namespace SIS.HTTP.Contracts
+{
+    public interface IHttpRequest
+    {
+        string Path { get; }
+
+        string Url { get; }
+    
+        Dictionary<string, object> FormData { get; }
+
+        Dictionary<string, object> QueryData { get; }
+
+        IHttpHeaderCollection Headers { get; }
+
+        HttpRequestMethod RequestMethod { get; }
+    }
+}
