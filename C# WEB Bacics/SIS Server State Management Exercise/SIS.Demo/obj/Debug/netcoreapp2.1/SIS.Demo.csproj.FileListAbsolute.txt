@@ -1,0 +1,16 @@
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.deps.json
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.json
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.dev.json
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.pdb
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfo.cs
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CopyComplete
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.pdb
